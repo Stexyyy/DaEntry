@@ -1,8 +1,4 @@
-include<iostream>
-using namespace std;
-int main (){
-
-int age;
+import pygame
   
 age = int(input("How old are you? \n -- "))
 if age <= 12:
